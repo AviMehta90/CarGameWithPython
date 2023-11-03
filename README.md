@@ -1,7 +1,5 @@
 # Car Racing Game - DHOOM5
 
-![DHOOM5](CAPTURE1.png)
-
 ## Description
 DHOOM5 is a simple car racing game developed using the Python library, Pygame. In this game, the player controls a car and must navigate through a series of obstacles (other cars) on a highway. The objective is to avoid collisions with other cars and collect points by passing them.
 
@@ -20,10 +18,6 @@ DHOOM5 is a simple car racing game developed using the Python library, Pygame. I
 4. Dodge the oncoming cars to avoid crashes.
 5. Collect points by passing other cars. Each pass earns you 10 points.
 6. The game has multiple levels, with increased difficulty as you progress.
-
-## Screenshots
-![Gameplay](screenshots/Capture5.png)
-![Pause Screen](screenshots/CAPTURE4.png)
 
 ## Installation
 1. Clone this repository or download the source code.
